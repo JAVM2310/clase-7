@@ -1,4 +1,5 @@
 contenido cualquiera
+<<<<<<< HEAD
 
 linea 1
 linea 2
@@ -10,3 +11,8 @@ linea 7
 linea 8
 linea 9
 linea 10
+=======
+esta es una modificacion conjunta desde Pedro
+esto es un quilombo
+pero va queriendo
+>>>>>>> 5bc30cc6d08dc8533848b6b8f4cd7008e27757be
